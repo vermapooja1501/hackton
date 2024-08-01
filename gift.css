@@ -1,0 +1,21 @@
+.banner1{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: #d0b200;
+    border-width:10 ;
+    border-radius: 10PX;
+    margin-right: 10PX;
+    border-style: none;
+}
+.custom2{
+    background-color:coral;
+}
+   
+.text-section{
+    margin-top: 25px;
+}
+.aaa{
+    height:450px;
+    width: 450px;
+}

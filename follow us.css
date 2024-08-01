@@ -1,0 +1,41 @@
+
+.ppp{
+    text-align: center;
+}
+.ttt{
+    text-align: center;
+    margin-top: 20px;
+    margin: 50px;
+}
+
+.twiter_circle{
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.bi-twitter{
+    color: #d0b200;
+}
+.bi-instagram{
+    color: #d0b200;
+    font-size: 35px;
+}
+.instagram-circle{
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.bi-facebook{
+    color: #d0b200;
+}
+.facebook-circle{
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}

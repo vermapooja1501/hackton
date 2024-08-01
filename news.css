@@ -1,0 +1,19 @@
+.banner2{
+    background-image: url(https://img.freepik.com/free-vector/realistic-vintage-papers_1284-25431.jpg?t=st=1711515504~exp=1711519104~hmac=dd05e578a8e70885424e7b61d34a76d5ec1b66752b073669a1401f949692018f&w=740);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+.dd{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+}
+.b2{
+    border-style: none;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #323f4b;
+    padding: 10px;
+}

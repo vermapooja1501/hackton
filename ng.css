@@ -1,0 +1,192 @@
+.custom-nav-link1{
+    color: grey;
+    font-family: roboto;
+}
+.custom-nav-link2{
+    color: grey;
+    font-family: roboto;
+}
+.custom-nav-link3{
+    color: grey;
+    font-family: roboto;
+}
+.custom-nav-link4{
+    color: grey;
+    font-family: roboto;
+}
+
+
+.bg-banner{
+    background-size: cover;
+    height: 100vh;
+    background-image: url(https://images-ext-2.discordapp.net/external/LR3xk241kTKmmUn6T_n72-CUptbiEBN6wqost5LXx5o/%3Fw%3D740%26t%3Dst%3D1709028267~exp%3D1709028867~hmac%3D163905a6d93a7f7258d716b17e365604144b104aa86f755b2190f1c0c2030082/https/img.freepik.com/free-photo/top-view-fresh-delicious-chinese-food-dark-background_24972-2170.jpg);
+
+}
+.banner-heading{
+    font-weight: 300;
+    font-size: 45px;
+    font-family: roboto;
+    color:white;
+}
+.banner-caption{
+    font-family: roboto;
+    color: #f5f7fa;
+    font-size: 25px;
+    font-weight: 300;
+}
+.custom-Button{
+    width: 145px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width:0 ;
+    border-radius: 8PX;
+    margin-right: 10PX;
+}
+.custom-button1{
+    width: 140px;
+    height: 45px;
+    color: white;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 8px;
+    /* border-color: #d0b200; */
+    border-width: 1px;
+
+}
+.bg{
+    height: 50px;
+    width: 100px;
+}
+.box{
+    height: 350px;
+    width: 350px;
+}
+img{
+    height: 250px;
+    width: 290px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.custom-button{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: #d0b200;
+    border-width:10 ;
+    border-radius: 10PX;
+    margin-right: 10PX;
+    border-style: none;
+
+}
+.bg-banner{
+    margin-right: 10px;
+    margin-top: 50px;
+}
+.custom-button1{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: #d0b200;
+    border-width:10 ;
+    border-radius: 10PX;
+    margin-right: 10PX;
+    border-style: none;
+}
+.imggg{
+    height: 70px;
+    padding: 10px;
+    width: 90px;
+}
+.banner1{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: #d0b200;
+    border-width:10 ;
+    border-radius: 10PX;
+    margin-right: 10PX;
+    border-style: none;
+}
+.custom2{
+    background-color:coral;
+}
+
+.text-section{
+    margin-top: 25px;
+}
+.aaa{
+    height:450px;
+    width: 450px;
+}
+
+.ppp{
+    text-align: center;
+}
+.ttt{
+    text-align: center;
+    margin-top: 20px;
+    margin: 50px;
+}
+
+.twiter_circle{
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.bi-twitter{
+    color: #d0b200;
+}
+.bi-instagram{
+    color: #d0b200;
+    font-size: 35px;
+}
+.instagram-circle{
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.bi-facebook{
+    color: #d0b200;
+}
+.facebook-circle{
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.end-section{
+    background-color: #0d2436;
+    background-size: cover;
+    color: white;
+    padding: 30px;
+ }
+ .cen{
+     text-align: center;
+ }
+ .mrg{
+     margin-top: 30px;
+ }
+
+ .custom-section{
+    text-align: center;
+}
+
+.card{
+    margin: 5px;
+    height: 400px;
+
+}
+/* .imgg{
+    height: 100vh;
+    width: 70vw;
+} */
+.rr{
+    color:blue;
+}

@@ -1,0 +1,17 @@
+.img{
+    background-image: url(https://img.freepik.com/free-vector/green-binary-code-technology-digital-background-design_1017-25333.jpg?t=st=1711449352~exp=1711452952~hmac=778e94d920f0068cc35015399dd2436c427d68976a53219bc62e23ce090c8b3d&w=740);
+
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+}
+.ttt{
+    color:white;
+    border: 10px;
+    text-align: center;
+    border-style: solid;
+    width: 30vw;
+    margin: auto;
+    border-color: #48ee59;
+}

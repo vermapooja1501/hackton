@@ -1,0 +1,27 @@
+.heading{
+    color: blue;
+}
+/* @media print{
+    .heading{
+        color: green;
+    }
+} */
+.bg-container{
+    background-color: red;
+    background-size: cover;
+}
+@media(width:800px) {
+    .bg-container{
+        background-color: pink;
+    }
+}
+@media( max-width:799px) {
+    .bg-container{
+        background-color: orange;
+    }
+}
+@media( min-width:801px) {
+    .bg-container{
+        background-color:green;
+    }
+}

@@ -1,0 +1,14 @@
+.ppp{
+    text-align: center;
+}
+.details-items{
+     font-family: roboto;
+     font-weight: bold;
+}
+.text-section{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 850px;
+
+}

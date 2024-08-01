@@ -1,0 +1,22 @@
+.paragraph{
+    border-style: solid;
+    padding: 10px;
+    font-size: larger;
+    color: blue;
+    height: 150px;
+    width: 200px;
+    overflow-y: scroll;
+
+}
+.ppp{
+    color: black;
+}
+.word{
+    border: 5px solid blue;
+    font-size: 48px;
+    width: 100px;
+    padding: 5px;
+}
+.h-overflow{
+    overflow-x: scroll;
+}

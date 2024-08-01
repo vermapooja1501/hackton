@@ -1,0 +1,19 @@
+.pptt{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.lll{
+    margin-left: 40px;
+    font-size: 12px;
+}
+.vvv{
+    margin-left: 50px;
+    font-size: 12px;
+}
+.nss{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 800px;
+    height: auto;
+}

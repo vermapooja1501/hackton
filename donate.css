@@ -1,0 +1,54 @@
+.heading {
+    text-align: center;
+}
+
+.hh {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f5a524;
+    color: azure;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-style: none;
+}
+
+.uu {
+    margin-left: 100px;
+    color: #666;
+}
+
+.gr {
+    margin-left: 100px;
+    color: #00b0f0;
+}
+
+.bbr {
+    margin-left: 200px;
+    color: #00b0f0;
+}
+
+.upp {
+    margin-left: 200px;
+    color: #666;
+    margin-top: 20px;
+
+}
+
+.kkk {
+    padding: 5px;
+    margin-left: 150px;
+    color: #ffffff;
+    background-color: #f5a524;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 10px;
+
+}
+
+.dd {
+    color: #666;
+}
+.tpp{
+    color: #666;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,40 @@
+.banner1{
+    background-image: url(https://img.freepik.com/free-photo/black-mulberry-paper-textured-background_53876-129520.jpg?t=st=1711435773~exp=1711439373~hmac=f270153783e5ef4c46db657dd694e58fa9fcfd4b9d6890cd5ec3ac8b64d9c744&w=740);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.text{
+    text-align: center;
+    color: aliceblue;
+    background-color: #323f4b;
+    margin-bottom: 50px;
+}
+.custom{
+    text-align: right;
+    background-color: #47a3f3;
+    padding: 5px;
+    width: 95vw;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    color:white;
+
+
+}
+.aaa{
+    width: 95vw;
+    text-align: left;
+    background-color:#323f4b;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 25px 20px 20px 0px;
+    /* border-top-right-radius: 25px;
+    border-top-left-radius: 20px; */
+    /* border-bottom-left-radius:0px; */
+    color:white;
+    margin-right: 10px;
+    
+}

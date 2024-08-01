@@ -1,0 +1,26 @@
+/* .body{
+    display: flex;
+    justify-content: center;
+} */
+.details-container{
+    font-family: roboto;
+    font-size: 25px;
+    color: black;
+    margin: 20px;
+}
+.details-items{
+    font-family: "Roboto";
+
+}
+.bbb{
+    background-color: blue;
+    color: white;
+    border-style: none;
+    padding: 10px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.custom1{
+    text-align: center;
+}

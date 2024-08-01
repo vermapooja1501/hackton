@@ -1,0 +1,14 @@
+.ppp{
+    height: 100vh;
+    background-image:radial-gradient(#2196f3,#f44336)
+}
+.ttt{
+    background-size: cover;
+    height: 100vh;
+}
+.ab{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}

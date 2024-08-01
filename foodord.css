@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    background-image: url(https://img.freepik.com/free-photo/people-taking-photos-food_23-2149303525.jpg?w=1380&t=st=1705491238~exp=1705491838~hmac=eb8942c53f4285232b6fbd5132b037ebbe2a2d4c0ccef5917fb041e7afcf3e2b);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+   
+    
+}
+
+.dd {
+    background-color: #f6c56e;
+    padding: 20px;
+    /* border-top-left-radius: 10px; */
+    /* border-top-right-radius: 10px; */
+    border-radius: 10px;
+    
+}
+.c2{
+    font-family: Bree serif;
+}
+.pp{
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px;
+}
